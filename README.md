@@ -1,4 +1,6 @@
 # apache-php
+![ff](https://img.shields.io/docker/build/zfarrugia/apache-php.svg)
+
 PHP 7 Web Server runnning Apache
 
 # Configuration
