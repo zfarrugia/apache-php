@@ -3,6 +3,8 @@
 
 PHP 7.3 Web Server runnning Apache
 
+Extends `php:7.3-apache`
+
 # Configuration
 
 Get started by creating a `Dockerfile`:
