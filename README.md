@@ -1,7 +1,9 @@
 # apache-php
 ![ff](https://img.shields.io/docker/build/zfarrugia/apache-php.svg)
 
-PHP 7.3 Web Server runnning Apache
+PHP 7.4 Web Server running Apache
+
+Extends image `php:7.4-apache`
 
 # Configuration
 
